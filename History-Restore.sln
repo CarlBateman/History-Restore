@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "History-Restore", ".", "{DB21BB53-EF01-4C64-A41A-440D60C269A0}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64410"
+		Debug.AspNetCompiler.PhysicalPath = "..\History-Restore\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64410\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64410"
+		Release.AspNetCompiler.PhysicalPath = "..\History-Restore\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64410\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64410"
+		SlnRelativePath = "..\History-Restore\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB21BB53-EF01-4C64-A41A-440D60C269A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB21BB53-EF01-4C64-A41A-440D60C269A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {273694AE-6F89-4BD3-A935-E8A37ED014E5}
+	EndGlobalSection
+EndGlobal

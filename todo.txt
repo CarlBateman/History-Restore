@@ -1,0 +1,50 @@
+﻿show/mode
+	title
+	intro
+	help/pause
+
+skybox
+
+interaction
+	move/fire
+
+planks/columns/walls
+
+shaders from file
+
+physics/collisions
+
+
+fire shader
+sea/water shader (simple)
+
+anomation
+
+game loop
+set up
+
+loop
+  get user input
+  update
+  render
+end loop
+
+game states
+  - pause
+  - play
+  - restart
+end condition
+
+create terrain (plane and blocks) (companion shapes ???)
+instance models
+move around
+pick up / throw
+teleport
+power ups
+portals
+physics
+Velno
+
+gravity
+portals
+time rewind
